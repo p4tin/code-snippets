@@ -1,5 +1,4 @@
 # On this page I will be placing interesting code snippets.
 
-* Java
-* Go
+* [Golang](golang.md)
 * [Python](python.md)

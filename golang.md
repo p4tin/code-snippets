@@ -1,6 +1,6 @@
 # Golang
 
-[Generate Random Data](.## Generate Random Data)
+[Generate Random Data](#Generate Random Data)
 
 ## Check a golang map for a specific key
 ```

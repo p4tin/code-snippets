@@ -1,8 +1,8 @@
 # Golang
 
-[Check for key in map](#check-a-golang-map-for-a-specific-key) . 
-[echo - decode json from request body](echo---decode-json-from-request-body) . 
-[Generate Random Data](#generate-random-data) . 
+* [Check for key in map](#check-a-golang-map-for-a-specific-key)
+* [echo - decode json from request body](echo---decode-json-from-request-body)
+* [Generate Random Data](#generate-random-data)
 
 
 ## Check a golang map for a specific key

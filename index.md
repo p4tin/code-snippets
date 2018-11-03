@@ -2,4 +2,4 @@
 
 * Java
 * Go
-* Python
+* [Python](python.md)
